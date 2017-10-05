@@ -1,2 +1,8 @@
-# CampusLinks
-The project, I worked on was aimed to identify the current state of college administration methodologies adopted to connect to students in India and provide a remedial solution. Primarily, Project contains modules such as Profile, Campustrade (Online Advertisment), Ask a Question(FB wall or Quora), File sharing, Casual Games. (MeteorJs,HTML5,CSS3,Bootstrap.) 
+CampusLinks
+==============
+To fix this, we added Iron Router with
+meteor add iron:router
+
+Then we moved the main html content into a template named layout
+Then we adjusted the router.js file
+
